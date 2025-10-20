@@ -1,0 +1,1227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.1",
+      "properties": {
+        "fid": 1,
+        "codigo": "KAN",
+        "Tipo": "HE",
+        "Area": "CENTRAL",
+        "Central": "Central Kanata",
+        "Propietari": "SYNERGIA",
+        "Pn": 7.395,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.22209392,
+          -17.3164596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.2",
+      "properties": {
+        "fid": 2,
+        "codigo": "COR",
+        "Tipo": "HE",
+        "Area": "CENTRAL",
+        "Central": "Central Corani",
+        "Propietari": "ENDE CORANI",
+        "Pn": 69.453,
+        "No_Unid": 5,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.87574526,
+          -17.21229269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.3",
+      "properties": {
+        "fid": 3,
+        "codigo": "SIS",
+        "Tipo": "HE",
+        "Area": "CENTRAL",
+        "Central": "Central Santa Isabel",
+        "Propietari": "ENDE CORANI",
+        "Pn": 93.3129,
+        "No_Unid": 5,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.82328709,
+          -17.19158725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.4",
+      "properties": {
+        "fid": 4,
+        "codigo": "CHJ",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Chojlla",
+        "Propietari": "HB",
+        "Pn": 34.646,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.77227181,
+          -16.41218483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.5",
+      "properties": {
+        "fid": 5,
+        "codigo": "YAN",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Yanacachi",
+        "Propietari": "HB",
+        "Pn": 49.878,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.73774901,
+          -16.38771255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.6",
+      "properties": {
+        "fid": 6,
+        "codigo": "QUE",
+        "Tipo": "HE",
+        "Area": "ORURO",
+        "Central": "Central Quehata",
+        "Propietari": "SDB",
+        "Pn": 1.9,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.848462,
+          -17.349859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.7",
+      "properties": {
+        "fid": 7,
+        "codigo": "GCH",
+        "Tipo": "TG",
+        "Area": "ORIENTAL",
+        "Central": "Central Guaracachi",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 410.704,
+        "No_Unid": 8,
+        "Cat": "> 200",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.15319337,
+          -17.78638823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.8",
+      "properties": {
+        "fid": 8,
+        "codigo": "SCZ",
+        "Tipo": "TG",
+        "Area": "ORIENTAL",
+        "Central": "Central Santa Cruz",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 47.085,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.13983836,
+          -17.7547885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.9",
+      "properties": {
+        "fid": 9,
+        "codigo": "GBE",
+        "Tipo": "BM",
+        "Area": "ORIENTAL",
+        "Central": "Central Guabir?",
+        "Propietari": "GBE",
+        "Pn": 25,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.26094444,
+          -17.318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.10",
+      "properties": {
+        "fid": 10,
+        "codigo": "BUL",
+        "Tipo": "TG",
+        "Area": "CENTRAL",
+        "Central": "Central Bulo Bulo",
+        "Propietari": "CECBB",
+        "Pn": 149.84,
+        "No_Unid": 3,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.54108401,
+          -17.24251199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.11",
+      "properties": {
+        "fid": 11,
+        "codigo": "ARJ",
+        "Tipo": "TG",
+        "Area": "SUCRE",
+        "Central": "Central Aranjuez",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 44.4146,
+        "No_Unid": 10,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.28241187,
+          -19.05401365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.12",
+      "properties": {
+        "fid": 12,
+        "codigo": "SUR",
+        "Tipo": "TG",
+        "Area": "SUR",
+        "Central": "Central Termoel?ctrica del Sur",
+        "Propietari": "ENDE ANDINA",
+        "Pn": 516.16,
+        "No_Unid": 12,
+        "Cat": "> 500",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56090151,
+          -21.69401049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.13",
+      "properties": {
+        "fid": 13,
+        "codigo": "CAH",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Cahua",
+        "Propietari": "COBEE",
+        "Pn": 28.8,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.01451079,
+          -16.05629682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.14",
+      "properties": {
+        "fid": 14,
+        "codigo": "CAR",
+        "Tipo": "TG",
+        "Area": "CENTRAL",
+        "Central": "Central Carrasco",
+        "Propietari": "VHE",
+        "Pn": 159.0992,
+        "No_Unid": 3,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.52729095,
+          -17.2126728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.15",
+      "properties": {
+        "fid": 15,
+        "codigo": "VHE",
+        "Tipo": "TG",
+        "Area": "CENTRAL",
+        "Central": "Central Valle Hermoso",
+        "Propietari": "VHE",
+        "Pn": 141.65,
+        "No_Unid": 8,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11694507,
+          -17.42901767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.16",
+      "properties": {
+        "fid": 16,
+        "codigo": "HUA",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Huaji",
+        "Propietari": "COBEE",
+        "Pn": 30.09,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.97719706,
+          -16.04111718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.17",
+      "properties": {
+        "fid": 17,
+        "codigo": "ALT",
+        "Tipo": "TG",
+        "Area": "NORTE",
+        "Central": "Central El Alto",
+        "Propietari": "VHE",
+        "Pn": 71.6,
+        "No_Unid": 2,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1811441,
+          -16.56535699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.18",
+      "properties": {
+        "fid": 18,
+        "codigo": "MIG",
+        "Tipo": "HE",
+        "Area": "ORURO",
+        "Central": "Central Miguillas",
+        "Propietari": "COBEE",
+        "Pn": 4.5,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32460953,
+          -16.92563731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.19",
+      "properties": {
+        "fid": 19,
+        "codigo": "ANG",
+        "Tipo": "HE",
+        "Area": "ORURO",
+        "Central": "Central Angostura",
+        "Propietari": "COBEE",
+        "Pn": 7.25,
+        "No_Unid": 3,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.31515633,
+          -16.89372266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.20",
+      "properties": {
+        "fid": 20,
+        "codigo": "ZON",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Zongo",
+        "Propietari": "COBEE",
+        "Pn": 10.625,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12274479,
+          -16.27190129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.21",
+      "properties": {
+        "fid": 21,
+        "codigo": "CHO",
+        "Tipo": "HE",
+        "Area": "ORURO",
+        "Central": "Central Choquetanga",
+        "Propietari": "COBEE",
+        "Pn": 7.425,
+        "No_Unid": 3,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.31729353,
+          -16.84772926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.22",
+      "properties": {
+        "fid": 22,
+        "codigo": "TIQ",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Tiquimani",
+        "Propietari": "COBEE",
+        "Pn": 9.435,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.12359245,
+          -16.20727465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.23",
+      "properties": {
+        "fid": 23,
+        "codigo": "BOT",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Botijlaca",
+        "Propietari": "COBEE",
+        "Pn": 6.5875,
+        "No_Unid": 3,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14063621,
+          -16.1924747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.24",
+      "properties": {
+        "fid": 24,
+        "codigo": "CUT",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Cuticucho",
+        "Propietari": "COBEE",
+        "Pn": 21.185,
+        "No_Unid": 5,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1160231,
+          -16.1422965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.25",
+      "properties": {
+        "fid": 25,
+        "codigo": "SRO",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Santa Rosa",
+        "Propietari": "COBEE",
+        "Pn": 17.47175,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.10961753,
+          -16.13169394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.26",
+      "properties": {
+        "fid": 26,
+        "codigo": "SAI",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Sainani",
+        "Propietari": "COBEE",
+        "Pn": 9.9,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.09002824,
+          -16.12390752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.27",
+      "properties": {
+        "fid": 27,
+        "codigo": "CHU",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Chururaqui",
+        "Propietari": "COBEE",
+        "Pn": 26.1,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0708287,
+          -16.10730357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.28",
+      "properties": {
+        "fid": 28,
+        "codigo": "HAR",
+        "Tipo": "HE",
+        "Area": "NORTE",
+        "Central": "Central Harca",
+        "Propietari": "COBEE",
+        "Pn": 27.36,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.04454995,
+          -16.08865746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.29",
+      "properties": {
+        "fid": 29,
+        "codigo": "CRB",
+        "Tipo": "HE",
+        "Area": "ORURO",
+        "Central": "Central Carabuco",
+        "Propietari": "COBEE",
+        "Pn": 6.3,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.32504233,
+          -16.81505727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.30",
+      "properties": {
+        "fid": 30,
+        "codigo": "SJA",
+        "Tipo": "HE",
+        "Area": "TARIJA",
+        "Central": "Central San Jacinto",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 7.905,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.71806895,
+          -21.6026923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.31",
+      "properties": {
+        "fid": 31,
+        "codigo": "QOL",
+        "Tipo": "EO",
+        "Area": "CENTRAL",
+        "Central": "Central Qollpana",
+        "Propietari": "ENDE CORANI",
+        "Pn": 27,
+        "No_Unid": 10,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.28461241,
+          -17.62790266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.32",
+      "properties": {
+        "fid": 32,
+        "codigo": "ERI",
+        "Tipo": "TG",
+        "Area": "CENTRAL",
+        "Central": "Central Entre R?os",
+        "Propietari": "ENDE ANDINA",
+        "Pn": 505.4611,
+        "No_Unid": 13,
+        "Cat": "> 500",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.51850657,
+          -17.19984423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.33",
+      "properties": {
+        "fid": 33,
+        "codigo": "MOA",
+        "Tipo": "DO",
+        "Area": "TRINIDAD",
+        "Central": "Central Moxos Antiguo",
+        "Propietari": "ENDE G",
+        "Pn": 7.6,
+        "No_Unid": 5,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.84838079,
+          -14.82715262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.34",
+      "properties": {
+        "fid": 34,
+        "codigo": "WAR",
+        "Tipo": "TG",
+        "Area": "ORIENTAL",
+        "Central": "Central Termoel?ctrica Warnes",
+        "Propietari": "ENDE ANDINA",
+        "Pn": 556.16,
+        "No_Unid": 13,
+        "Cat": "> 500",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.14655122,
+          -17.534072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.35",
+      "properties": {
+        "fid": 35,
+        "codigo": "UNA",
+        "Tipo": "BM",
+        "Area": "ORIENTAL",
+        "Central": "Central Unagro (Excedentes)",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 35,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.24531406,
+          -17.11238635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.36",
+      "properties": {
+        "fid": 36,
+        "codigo": "SBU",
+        "Tipo": "BM",
+        "Area": "NORTE",
+        "Central": "Central San Buenaventura",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 15,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.61426755,
+          -14.34055759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.37",
+      "properties": {
+        "fid": 37,
+        "codigo": "YUN",
+        "Tipo": "SL",
+        "Area": "TARIJA",
+        "Central": "Central Solar Yunchar?",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 5.72,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.099807,
+          -21.83519199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.38",
+      "properties": {
+        "fid": 38,
+        "codigo": "MIS",
+        "Tipo": "HE",
+        "Area": "CENTRAL",
+        "Central": "Central Misicuni",
+        "Propietari": "ENDE G",
+        "Pn": 126,
+        "No_Unid": 3,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.26233897,
+          -17.31385871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.39",
+      "properties": {
+        "fid": 39,
+        "codigo": "IAG",
+        "Tipo": "BM",
+        "Area": "ORIENTAL",
+        "Central": "Central Guabir? (Excedentes)",
+        "Propietari": "GBE",
+        "Pn": 5,
+        "No_Unid": 1,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.26081715,
+          -17.31799125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.40",
+      "properties": {
+        "fid": 40,
+        "codigo": "SJS",
+        "Tipo": "HE",
+        "Area": "CENTRAL",
+        "Central": "Central San Jos? I",
+        "Propietari": "ENDE CORANI",
+        "Pn": 55.26,
+        "No_Unid": 2,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.78631706,
+          -17.16940121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.41",
+      "properties": {
+        "fid": 41,
+        "codigo": "UYU",
+        "Tipo": "SL",
+        "Area": "SUR",
+        "Central": "Central Solar Uyuni",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 60.06,
+        "No_Unid": 21,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.76575085,
+          -20.57216627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.42",
+      "properties": {
+        "fid": 42,
+        "codigo": "SJE",
+        "Tipo": "HE",
+        "Area": "CENTRAL",
+        "Central": "Central San Jos? II",
+        "Propietari": "ENDE CORANI",
+        "Pn": 69.02,
+        "No_Unid": 2,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.78444444,
+          -17.10222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.43",
+      "properties": {
+        "fid": 43,
+        "codigo": "AGU",
+        "Tipo": "BM",
+        "Area": "ORIENTAL",
+        "Central": "Central Aguam (Excedentes)",
+        "Propietari": "ENDE GUARACACHI",
+        "Pn": 74.78896,
+        "No_Unid": 2,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.28208629,
+          -16.85421525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.44",
+      "properties": {
+        "fid": 44,
+        "codigo": "ORU",
+        "Tipo": "SL",
+        "Area": "CENTRAL",
+        "Central": "Central Solar Oruro",
+        "Propietari": "ENDE G",
+        "Pn": 104.5,
+        "No_Unid": 38,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.43749684,
+          -17.77209641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.45",
+      "properties": {
+        "fid": 45,
+        "codigo": "EDO",
+        "Tipo": "EO",
+        "Area": "ORIENTAL",
+        "Central": "Central Eolica El Dorado",
+        "Propietari": "ENDE G",
+        "Pn": 54,
+        "No_Unid": 14,
+        "Cat": "> 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.14530724,
+          -18.38331074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.46",
+      "properties": {
+        "fid": 46,
+        "codigo": "EWA",
+        "Tipo": "EO",
+        "Area": "ORIENTAL",
+        "Central": "Central EAlica Warnes",
+        "Propietari": "ENDE G",
+        "Pn": 14.4,
+        "No_Unid": 4,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.13534034,
+          -17.53047698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gen_sin_20250131.47",
+      "properties": {
+        "fid": 47,
+        "codigo": "SJU",
+        "Tipo": "EO",
+        "Area": "ORIENTAL",
+        "Central": "Central EAlica San Julien",
+        "Propietari": "ENDE G",
+        "Pn": 39.6,
+        "No_Unid": 11,
+        "Cat": "< 50",
+        "_source_layer": "geonode:gen_sin_20250131",
+        "_layer_title": "Centrales Generadoras SIN 2025-01-31",
+        "_source_url": "https://geoportal.mhe.gob.bo/layers/geonode%3Agen_sin_20250131",
+        "_license_hint": "Check layer page for license; attribute Ministerio de Hidrocarburos y Energías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.838045,
+          -17.81435519
+        ]
+      }
+    }
+  ]
+}

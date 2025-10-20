@@ -22,7 +22,6 @@ from collections import OrderedDict
 import requests
 import pandas as pd  # kept for compatibility; CSV writing below uses DictWriter
 
-# --- Make Windows console tolerant to UTF-8 without crashing on prints ---
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
@@ -38,7 +37,7 @@ WFS_URL = "https://geoportal.mhe.gob.bo/geoserver/ows"
 SRS = "EPSG:4326"
 PAGE_SIZE = 10000
 
-# Resilience knobs (defaults mirror the patched variant)
+# Resilience knobs 
 MAX_RETRIES = 6
 TIMEOUT_CONNECT = 8
 TIMEOUT_READ = 90
@@ -114,7 +113,7 @@ def get_with_retries(
             print(f"  [retry {attempt}/{max_retries}] {url} -> {type(e).__name__}: {e}. Sleeping {sleep_s:.1f}s...", flush=True)
             time.sleep(sleep_s)
 
-# ---------------- Core helpers (same style as before) ----------------
+# ---------------- Core helpers----------------
 def _number_matched(layer: str) -> Optional[int]:
     """Try WFS 2.0.0 hits request to get total feature count (informational)."""
     try:
