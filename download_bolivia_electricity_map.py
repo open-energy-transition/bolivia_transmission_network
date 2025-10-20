@@ -264,7 +264,7 @@ def write_geojson_pretty(path: str, fc: dict) -> None:
 # ---------- DataFrame / CSV export for transmission lines ----------
 TX_LAYER_KEY = "geonode:transmision_sin_20250131"
 
-# Strict column order requested (helpers first), like you asked:
+# Strict column names
 CSV_COLS = [
     "_feature_id","_geometry_type","_coords_json",
     "fid","OBJECTID","Codigo","AREA","PROPIETARI","STI","TRAMO","TIPO","N_CIRCU",
