@@ -3,7 +3,7 @@
 
 """
 Merge Wikidata QIDs back into:
-  - transmision_sin_20250131_with_qid.csv (adds 'wikidata' right after 'Codigo')
+  - transmision_sin_20250131_with_qid.csv 
   - geonode_transmision_sin_20250131_with_qid.geojson (brand-new GeoJSON built from merged CSV)
 
 Process:
@@ -11,7 +11,7 @@ Process:
 2) Compute EXT token per row: sha1(_feature_id + "|" + first 256 chars of _coords_json)[:12].
 3) Query Wikidata SPARQL by Codigo (wdt:P528) in batches (VALUES), throttled + retries.
 4) If multiple items share a Codigo, prefer the one whose Spanish description contains "[EXT:<token>]".
-5) Write CSV (UTF-8 BOM) with 'wikidata' inserted AFTER 'Codigo' and Excel-safe '_coords_json'.
+5) Write CSV (UTF-8 BOM)'Codigo' and Excel-safe '_coords_json'.
 6) Build a NEW GeoJSON from the merged DataFrame using *_geometry_type* + original *_coords_json*.
 """
 
@@ -243,7 +243,7 @@ def main():
     df[cols].to_csv(OUT_CSV, index=False, encoding="utf-8-sig")
     print(f"[OK] CSV written -> {OUT_CSV}")
 
-    # 6) Build a NEW GeoJSON from the merged DataFrame (using ORIGINAL coords)
+    # 6) Build a NEW GeoJSON from the merged DataFrame 
     fc = dataframe_to_geojson(df)
     with open(OUT_GEOJSON, "w", encoding="utf-8") as f:
         json.dump(fc, f, ensure_ascii=False, indent=2)
